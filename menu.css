@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Prompt:wght@100&display=swap');
+
+body{
+    background: rgb(255, 255, 255);
+}
+
+.tigerbank{
+    font-family: 'Bruno Ace';
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+}
+.containersaldo{
+    width: 98%;
+    height: 10rem;
+    background-color: rgb(62, 51, 212);
+    display: flex;
+    align-items: center;
+    margin-top: -3vw;
+    border: solid;
+    margin-left: 1rem;
+}
+.boasvindas{
+    font-size: 3rem;
+    position: relative;
+    left: 2rem;
+    color: white;
+}
+.saldo{
+    font-size: 4rem;
+    position: relative;
+    left: 40%;
+    color: white;
+   
+  
+}
+.form1{
+    position: relative;
+    margin-top: 3%;
+    top:-7vh;
+    left: -1vw;
+    width: 2000vw;
+    height: 25vh;
+    background-color: rgb(0, 47, 255);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    z-index: 1;
+    border:solid;
+}
+.logo{
+    max-width: 300px;
+}
+.container0{
+    width: 5vw;
+    height: 13vw ;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 59vw;
+}
+.menu{
+    max-width: 50px;
+    position: relative;
+    left: 5rem;
+    top: -4vw;
+}
+.help{
+    max-width: 60px;
+    position: relative;
+    left: 1.6rem;
+    
+}
+.balao{
+    max-width: 90px;
+    position: relative;
+    right:3rem;
+    bottom: -4vw;
+}
+.container_op{
+    width: 99%;
+    height: 61rem;
+    background-color: rgb(20, 15, 129);
+    border: solid;
+    border-radius: 30px;
+    margin-top: 2rem;
+    margin-right: 1rem;
+}
+#opções{
+    max-width: 15rem;
+    position: relative;
+    
+}
+.botão1{
+    font-size: 2rem;
+    position: relative;
+    left:80%;
+    margin-top: 2vw;
+    background-color: rgb(255, 255, 255);
+
+}
+.letra1{
+    font-size: 4rem;
+    position: relative;
+    left: 80%;
+    color: white;
+}
+
+.botão2{
+    font-size: 2rem;
+    position: relative;
+    bottom: 64rem;
+    left:55%;
+    margin-top: 2vw;
+    background-color: rgb(255, 255, 255);
+}
+.letra2{
+    font-size: 4rem;
+    position: relative;
+    left: 55%;
+    bottom:64rem;
+    color: white;
+}
+.botão3{
+    font-size: 2rem;
+    position: relative;
+    bottom: 128rem;
+    left:30%;
+    margin-top: 2vw;
+    background-color: rgb(255, 255, 255);
+
+
+}
+.letra3{
+    font-size: 4rem;
+    position: relative;
+    left: 30%;
+    bottom:128rem;
+    color: white;
+}
+.botão4{
+    font-size: 2rem;
+    position: relative;
+    bottom: 192rem;
+    left: 5%;
+    margin-top: 2vw;
+    background-color: rgb(255, 255, 255);
+    
+
+
+}
+.letra4{
+    font-size: 4rem;
+    position: relative;
+    left: 5%;
+    bottom:192rem;
+    color: white;
+}
+.botão5{
+    margin-top: 3vw;
+    background-color: rgb(0, 131, 131);
+    font-family: 'Bruno Ace';
+}
+.botão6{
+    margin-top: 3vw;
+    background-color: rgb(12, 3, 100);
+    font-family: 'Bruno Ace';
+}
+.title{
+    color: rgb(255, 255, 255);
+    font-size: 10rem;
+}
+.subtitle{
+    font-size: 5rem;
+    color: rgb(255, 255, 255);
+}
+
+.areaextra{
+    width: 165rem;
+    height: 50rem;
+    background-color: aliceblue;
+    margin-top: 2rem;
+    border:dashed;
+    border-color: rgb(0, 0, 0);
+    margin-left: 1rem;
+    border-radius: 40px;
+    display: flex;
+    
+}
+.letra5{
+    font-size: 6rem;
+    font-family: 'Bruno ace';
+}
+.letra6{
+    font-size: 3rem;
+    font-family: arial;
+
+}

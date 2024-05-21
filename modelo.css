@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Prompt:wght@100&display=swap');
+
+body{
+    background: -webkit-linear-gradient(top, #00d9ff 20%, #00ff22 100%);
+    margin: 0%;
+    background-repeat: repeat;
+}
+.tigerbank{
+    font-family: 'Bruno Ace',cursive;
+    text-align: center;
+    font-size: 6rem;
+    color: rgb(0, 115, 255);
+}
+.form1{
+    margin-top: 3%;
+    top:-7vh;
+    position: fixed;
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+.logo{
+    max-width: 10rem;
+    
+}
+.form2{
+    position: relative;
+    top:20vh;
+    left: 15vw;
+    height: 80vw;
+    width: 70vw;
+    background-color: white;
+    border-radius: 10%;
+}
+
+.interrogacao{
+ 
+    text-align: center;
+    font-size:20px;
+}
+.img{
+    height: 50vh;
+    width: 35vw;
+    position: relative;
+    left: 18vw;
+    top: 10vw;
+}
+.text0{
+    position: relative;
+    left: 6vh;
+    font-size: 3rem;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ajudatittle{
+    font-family: arial ;
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(0, 61, 131)
+
+}
+
+.container0{
+    width: 50vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: bottom center;
+    
+
+}
+
+.container1{
+    width: 6000px;
+    height: 800px;
+    background-color: rgb(41, 42, 46);
+    display: flex;
+    align-items: center;
+}
+
+.espaco{
+    width: 300px;
+    height: 800px;
+}
+
+.voltarlogin{
+    font-size: 3rem;
+    position: relative;
+    left: 30rem;
+    border: solid;
+    border-color: white;
+}

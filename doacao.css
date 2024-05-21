@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Prompt:wght@100&display=swap');
+body{
+    background-image: url(https://s1.1zoom.me/big0/122/Scenery_Fields_Sky_Roads_500163.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.forma1{
+    width: 50%;
+    height: 45%;
+    background-color: rgba(0, 0, 0, 0.884);
+    position: relative;
+    left: 25%;
+
+    
+    
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Bruno ace';
+    color: white;
+}
+div{
+    font-size: 1.5rem;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+}
+.margin{
+    margin-bottom: 0.5rem;
+}
+button{
+    background-color: rgba(7, 255, 7, 0.637);
+    font-size: 3rem;
+    position: relative;
+    left: 41.7%;
+
+    
+}
