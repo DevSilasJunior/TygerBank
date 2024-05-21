@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Prompt:wght@100&display=swap');
 
 body{
-    background-image: url(https://portal.utfpr.edu.br/noticias/geral/conselho-universitario-realiza-reuniao-extraordinaria-no-dia-3-de-setembro/pessoa-acessa-a-transmissao-da-reuniao-pelo-celular/@@images/e2f8772f-ee17-4eb8-9cc9-28878163488a.jpeg);
+    background-image: url(./bsck.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 .ajuda{
